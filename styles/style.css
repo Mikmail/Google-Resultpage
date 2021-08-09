@@ -403,10 +403,13 @@ p {
   display: block !important;
   font-size: 14px;
   font-family: arial,sans-serif;
-  height: 106px;
+  height: -140px;
   clear: both;
-  bottom: -2595px;
-  left: -10px;
+  bottom: -2638px;
+  padding-right: 10px;
+  left: 0px;
+  padding-bottom: 0px;
+  margin-bottom: -24px;
 }
 
 .Q8LRLc {
